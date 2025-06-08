@@ -17,7 +17,7 @@ And right there, stay hydrated my peeps! <3
 
 🚫 Datasets (taken from mother Kaggle 🙌) not included (we’re keeping this repo ✨lean & clean✨)  
 ❌ Plotly didn’t make the cut (static charts slay anyway)  
-📓 Completely Google Colab friendly notebook and added skin hyaluron like VS Code 
+📓 Completely Jupyter, Google Colab friendly notebook and added skin hyaluron like VS Code 
 ---
 
 ## 🧚‍♀️ Tools I Wielded (Like a Data Wizard 🪄)
