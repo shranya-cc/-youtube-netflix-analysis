@@ -60,7 +60,7 @@ This dreamy repo includes:
 - Datasets were too clingy 🧳 so I let them go — you’ll need to bring your own
 - Make sure, the datasets arent loaded since plotly tried to be *shy* 😒 and gave a hard-time 😢 
 - All charts are static, just like my emotional availability when debugging
-- Made with VS Code, midnight thoughts, and ✨a lil too much excitement about data✨
+- Made with VS Code, Google Colab, midnight thoughts, and ✨a lil too much excitement about data✨
 
 ---
 
