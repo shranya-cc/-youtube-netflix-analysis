@@ -12,13 +12,12 @@ And right there, stay hydrated my peeps! <3
 
 | Notebook | Vibe |
 | -------- | ---- |
-| `Project_part_1.ipynb` | The glow-up episode 💅 — data cleaning, wrangling, and turning chaos into ✨aesthetic structure✨ |
+| `Project_part_1.ipynb` | The glow-up episode 💅 — data cleaning, wrangling, and turning chaos into ✨girly structure✨ |
 | `Project_part_2.ipynb` | The drama unfolds 🎭 — visualizations, insights, comparisons, and all the storytelling bits you came for |
 
-🚫 Datasets not included (we’re keeping this repo ✨lean & clean✨)  
+🚫 Datasets (taken from mother Kaggle 🙌) not included (we’re keeping this repo ✨lean & clean✨)  
 ❌ Plotly didn’t make the cut (static charts slay anyway)  
-💻 Fully Jupyter Notebook friendly — no Google Colab detour required!
-
+📓 Completely Google Colab friendly notebook and added skin hyaluron like VS Code 
 ---
 
 ## 🧚‍♀️ Tools I Wielded (Like a Data Wizard 🪄)
@@ -58,7 +57,7 @@ This dreamy repo includes:
 ## ⚠️ A Quick PSA 💌
 
 - Datasets were too clingy 🧳 so I let them go — you’ll need to bring your own
-- Make sure, the datasets arent loaded since plotly tried to be *shy* 😒 and gave a hard-time 😢 
+- Make sure before running the cells in colab, the datasets arent loaded since plotly tried to be *shy* 😒 and gave a hard-time 😢 
 - All charts are static, just like my emotional availability when debugging
 - Made with VS Code, Google Colab, midnight thoughts, and ✨a lil too much excitement about data✨
 
