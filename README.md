@@ -1,157 +1,45 @@
-💕 YouTube & Netflix Data Analysis – Complete Series (Parts 1, 2, Netflix Part 3 & YouTube Part 3) 🎉
+## 💗 YouTube And Netflix Data Analysis Series 💫
 
+Hey there! Glad to meet you, I'm Shranya Dutta, a B-Tech student interested in coding and turning boring data into beautiful insights and creative story-telling! 🎀
 
+## What's new?
 
-Hello there everyone!👋Welcome and lets dive into the deeper analysis of YouTube and Netflix📺🍿
+YouTube Part 3 just dropped and its packed up with :-
+* Voice-to-text Sentiment vibes
+* Artistic min-documentaries with cool fades
+* Highlights, emoji-storytellings
+* Fancy animated visuals along with Sankey, chord diagrams, heatmaps and more!
+* GIFs, charts, and emotional trend magic!
 
-
-
-What began as a chill two-part project quickly turned into a four-part data extravaganza — and guess what?  
-
-*YouTube Part 3 just dropped and completely stole the show, gurllll!* 💅🎬
-
-
-
----
-
-
-
-🌟 What's New in YouTube Part 3?
-
-
-
-The final and most exciting addition is here — YouTube Part 3 brings bold storytelling and creativity into data analytics with:
-
-
-
-🎤 Voice-to-Text Polarity exploration  
-
-🎥 A short artistic documentary (with fade-in/out transitions)  
-
-🎯 Highlights and annotations to draw attention to key findings  
-
-💫 Floating emojis and storytelling via animations  
-
-📈 A mix of advanced visuals like Sankey diagrams, chord diagrams, heatmaps, and animated quarterly trends  
-
-🎞 GIFs, animated charts, and emotional trends — all packed in!  
-
-💡 Outputs are cleared for clarity, and I removed some install cells to keep it neat — just install any missing libraries when running!
-
-
+Outputs are clean and ready to explore. Just install some missing packages if you run it
 
 ---
 
+# A little bit of secret 😉
 
+Its colab friendly! 🤫
 
-📂 Repo Breakdown
+## What can you find here??
 
+* Data cleaning and 3D with meaningful insights (Parts 1 and 2)
+* Netflix Part 3 has some crazy animations and dashboards and some important KPIs
+* YouTube part 3 consists of storytelling, highlights, gifs, sentiments and much more!
+  
+## What i recommend??
 
-
-This dreamy repo includes:
-
-
-
-🛠 *Part 1*: Data clean-up party 🧼  
-
-🎉 *Part 2*: Insight explosion (slay!) 💥  
-
-🔥 *Netflix Part 3*: Animation, dashboards, and all things Netflix — but with sample data  
-
-🌈 *YouTube Part 3*: Highlights, GIFs, emotional charts, Sankey flows & voice-based sentiment storytelling (because Plotly wasn’t having it 😢)
-
-
+~`Try it out! Its really great!`
 
 ---
 
+## Some points to render :-
 
+* The datasets are from 2020, a little bit vintage haha!
+* Sample data swapped in some parts for better speeding
+* Outputs cleared for a better look
+* No ML here yet - stay tuned for Project 2!
 
-🧚‍♀ Tools I Wielded (Like a Data Wizard 🪄)
+## Made with lots of code(💻), caffeine(☕) and love(❤️) by Shranya   
+If you like it, a ⭐ would totally make my day!
 
-
-
-pandas, matplotlib, seaborn, numpy, scipy, networkx, itertools, collections, plotly, mpl_toolkits — and more depending on the animation/chart magic needed! 🥺✨
-
-
-
----
-
-
-
-💡 The Plot (aka What You’ll Learn)
-
-
-
-✨ How to transform raw data into engaging, fun, and insightful stories  
-
-🔍 Trends from YouTube & Netflix — retro but still revealing  
-
-🎬 Emotional trend forecasting, GIF visualizations, and polarity mapping  
-
-🧠 What really drives engagement across platforms  
-
-📊 Network graphs, Sankey flows, chord diagrams, and time-based patterns  
-
-🖼 Creative storytelling with highlights, emojis, annotations, and even a short docu!
-
-
-
----
-
-
-
-🌐 Try It Out on Google Colab!
-
-
-
-Run all notebooks in the cloud (no setup needed, just vibes):  
-
-*[Open in Google Colab]*
-
-
-
----
-
-
-
-⚠ Important Notes
-
-
-
-🗂 *Datasets used* are from around 2020, so the analysis has a slightly vintage feel:  
-
-- 📺 [Netflix Movies & TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
-
-- 📹 [YouTube Trending Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new)
-
-
-
-📦 Large files were swapped with sample datasets in Netflix and YouTube Part 3 (and Part 2 at times) due to Plotly performance issues  
-
-🧹 Outputs were cleared in YouTube Part 3 to keep things neat and review-friendly  
-
-📥 Some libraries may not be included — just install them before running  
-
-🤖 No Scikit-learn or ML content here — that’s coming soon in my *Project 2* 🔮
-
-
-
----
-
-
-
-💬 Credits & Coffee
-
-
-
-Crafted by @shranya-cc ☕💻  
-
-If you liked this, maybe star the repo ⭐ — it makes my day brighter 💕
-
-
-
-✨ Stay curious, hydrated, caffeinated, keep your skin glowing, and analyze like the data royalty you are 👑  
-
-🎬 Project 2 coming soon with full-on ML, Scikit-learn, and more serious modeling — so watch this space! 🚀
 
 
