@@ -34,8 +34,8 @@ Its colab friendly! 🤫
 
 ## Here are the datasets which i used in my project :-
 
-~ For Netflix :- https://www.kaggle.com/datasets/shivamb/netflix-shows
-~ For YouTube :- https://www.kaggle.com/datasets/datasnaek/youtube-new
+* For Netflix :- https://www.kaggle.com/datasets/shivamb/netflix-shows
+* For YouTube :- https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Some points to render :-
 
