@@ -31,6 +31,12 @@ Its colab friendly! 🤫
 
 ---
 
+
+## Here are the datasets which i used in my project :-
+
+. For Netflix :- https://www.kaggle.com/datasets/shivamb/netflix-shows
+. For YouTube :- https://www.kaggle.com/datasets/datasnaek/youtube-new
+
 ## Some points to render :-
 
 * The datasets are from 2020, a little bit vintage haha!
