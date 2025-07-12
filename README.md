@@ -80,6 +80,8 @@ YouTube_Netflix_Data_Analysis/
 
 ## Key Insights And Findings 💡
 
+### YouTube
+
 - **Entertainment** and **music** are consistently dominant across countries  
 - Emotionally charged titles (🔥, 😂, WOW, OMG) leads to higher click-through and engagement  
 - Videos with specific tags like "reaction", "official trailer", and "challenge" trend repeatedly  
